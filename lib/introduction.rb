@@ -13,7 +13,8 @@ end
 
 
 def introduction_with_language(name, language)
-  
+  introduction(Maya)
+  puts "and I am learning to program in #{language}."
 end
 
 
